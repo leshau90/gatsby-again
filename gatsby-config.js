@@ -6,7 +6,7 @@
 
 module.exports = {
   /* Your site config here */
-  siteMetadata: { title: "Pandas Only Eat" },
+  siteMetadata: { title: "ilman eats panda" },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,

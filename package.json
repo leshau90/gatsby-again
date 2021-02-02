@@ -14,15 +14,17 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gatsby": "^2.13.57",
+    "@emotion/react": "^11.1.4",
+    "gatsby": "^2.30.2",
     "gatsby-plugin-emotion": "^5.2.0",
-    "gatsby-plugin-typography": "^2.10.0",
+    "gatsby-plugin-typography": "^2.11.0",
     "gatsby-source-filesystem": "^2.9.0",
     "gatsby-transformer-remark": "^2.14.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-typography": "^0.16.19",
     "typography": "^0.16.19",
+    "typography-theme-fairy-gates": "^0.16.19",
     "typography-theme-grand-view": "^0.16.19"
   },
   "devDependencies": {

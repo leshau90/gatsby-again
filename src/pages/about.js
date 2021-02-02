@@ -1,13 +1,19 @@
 import React from 'react'
-export default function About(){
+import Layout from '../components/layout'
+
+
+export default function About() {
     return (
-        <div>
-            <h1>
-                about me
+        <Layout>
+            <div>
+                <h1>
+                    about me
             </h1>
-            <p>
-                i want thing simple, but these frameworks add too many abstractions..
+                <p>
+                    i want thing simple, but these frameworks add too many abstractions..
             </p>
-        </div>
+            </div>
+
+        </Layout>
     )
 }
